@@ -10,7 +10,11 @@
     <Text text ="Welcome to FX Gabriel!"
     GridPane.columnIndex ="0" GridPane.rowIndex ="0"
     GridPane.columnSpan ="2"/>
-    <Button text="Submit"
+    <Label text="Please complete the follow form:"
     GridPane.columnIndex="0" GridPane.rowIndex="1"
     GridPane.columnSpan="5"/>
+    <Button text="Submit"
+    GridPane.columnIndex="0" GridPane.rowIndex="2"
+    GridPane.columnSpan="5"/>
+
 </GridPane>
